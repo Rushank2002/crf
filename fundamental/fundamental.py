@@ -18,7 +18,7 @@ st.write("Gas Fees: Transactions on the Ethereum network require gas fees, which
 st.write("DeFi and NFTs: Ethereum is a hub for decentralized finance (DeFi) projects and non-fungible tokens (NFTs).")
 st.write("Upgrades: Ethereum is transitioning from a proof-of-work (PoW) to a proof-of-stake (PoS) consensus mechanism through Ethereum 2.0 upgrades.")
 
-
+st.write("***")
 
 
 st.subheader("Binance Coin (BNB-USD)")
@@ -27,12 +27,15 @@ st.write("Use Cases: BNB can be used to pay for trading fees on Binance, partici
 st.write("Burn Mechanism: Binance periodically burns BNB tokens, reducing the total supply.")
 st.write("Binance Smart Chain (BSC): BNB is also used on BSC, a parallel blockchain to Binance Chain.")
 
+st.write("***")
+
 st.subheader("Solana (SOL-USD)")
 st.write("Description: Solana is a high-performance blockchain designed for decentralized applications and DeFi.")
 st.write("Fast and Low-Cost Transactions: Solana boasts fast transaction speeds and low fees.")
 st.write("Proof-of-History (PoH): Solana uses PoH to order transactions and improve scalability.")
 st.write("Ecosystem Growth: Solana has seen significant growth in DeFi projects and NFT platforms.")
 
+st.write("***")
 
 
 st.subheader("Ripple (XRP-USD)")
@@ -40,6 +43,8 @@ st.write("Description: Ripple (XRP) is a digital payment protocol and cryptocurr
 st.write("Cross-Border Payments: Ripple aims to facilitate fast and low-cost cross-border transactions.")
 st.write("Centralized vs. Decentralized: XRP has faced debates about its centralization due to its association with Ripple Labs.")
 st.write("Liquidity: XRP is widely used by financial institutions for liquidity and remittances.")
+
+st.write("***")
 
 st.subheader("Dogecoin (DOGE-USD)")
 st.write("Description: Dogecoin started as a meme cryptocurrency but gained popularity.")
