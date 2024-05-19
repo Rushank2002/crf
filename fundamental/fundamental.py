@@ -1,7 +1,7 @@
 # create a stremlit application that displays the fundamentals of the above
 
 import streamlit as st
-st.header("fundamental data for top ")
+st.header("fundamental data for top 5 cryptocurrency")
 st.subheader("Bitcoin (BTC-USD)")
 st.write("Description: Bitcoin is the first and most well-known cryptocurrency. It was created by an anonymous person or group known as Satoshi Nakamoto in 2009.")
 st.write("Blockchain Technology: Bitcoin operates on a decentralized blockchain, which is a distributed ledger that records all transactions.")
